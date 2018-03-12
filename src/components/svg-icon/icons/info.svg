@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="30px" viewBox="0 0 35 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>播报icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-下拉" transform="translate(-29.000000, -457.000000)" stroke="#999999" stroke-width="2">
+            <g id="播报icon" transform="translate(30.000000, 457.000000)">
+                <path d="M18,20 L18,20 C20.7614237,20 23,17.7614237 23,15 C23,12.2385763 20.7614237,10 18,10" id="Oval-18"></path>
+                <path d="M6.59362829,21 L1.59948695,21 C1.04558437,21 0.596557617,20.544239 0.596557617,19.9975267 L0.596557617,10.0024733 C0.596557617,9.44882258 1.03443897,9 1.59948695,9 L6.59362829,9" id="Rectangle-8" stroke-linecap="round"></path>
+                <path d="M6.98464085,8.53371957 L6.82673872,21.2143698 L14.4289142,28.5 L16.9974695,28.5 C16.9963635,28.5 17,28.4963962 17,28.5017544 L17,1.49824564 C17,1.5044708 16.9955365,1.5 16.9974695,1.5 L14.424956,1.5 L6.98464085,8.53371957 Z" id="Rectangle-8"></path>
+                <g id="Group-2" transform="translate(28.000000, 2.500000)" stroke-linecap="square">
+                    <path d="M0,25 L4,23" id="Line" transform="translate(2.000000, 24.000000) scale(1, -1) translate(-2.000000, -24.000000) "></path>
+                    <path d="M0,2 L4,0" id="Line"></path>
+                    <path d="M0,12 L4,12" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
