@@ -11,7 +11,7 @@
 
 一、安装 svg-sprite-loader, svgo, svgo-loader
 
-```
+```bash
 npm install svg-sprite-loader --save-dev
 npm install svgo svgo-loader --save-dev
 ```
@@ -22,7 +22,7 @@ npm install svgo svgo-loader --save-dev
 
 webpack.base.config.js
 
-```
+```javascript
 // svgo 的精简规则配置文件
 const svgoConfig = require('../config/svgo-config.json');
 
@@ -57,7 +57,7 @@ const svgoConfig = require('../config/svgo-config.json');
 
 svgo-config.json
 
-```
+```json
 {
   "plugins": [
     { "cleanupAttrs": true },
@@ -106,7 +106,7 @@ svgo-config.json
 
 SvgIcon.vue
 
-```
+```javascript
 <!-- svg-sprite组件，业务组件中直接使用该组件展示icon -->
 <template>
   <svg :class="svgClass" aria-hidden="true">
@@ -160,7 +160,7 @@ export default {
 
 业务组件中使用SvgIcon.vue
 
-```
+```javascript
 import SvgIcon from '../components/svg-icon/index';
 
 <div class="icon-loading">
