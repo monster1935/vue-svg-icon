@@ -1,6 +1,13 @@
 # vue-svg-icon
 
-基于 svg-sprite 的 svg-icon 方案实践 Demo。在基于 vue-cli 生成的项目中，引入基于 svg-sprite 的 icon 方案。
+> 基于 svg-sprite 的 svg-icon 方案实践 Demo。在基于 vue-cli 生成的项目中，引入基于 svg-sprite 的 icon 方案。
+
+**更新：该解决方案已经封装成npm包，可以通过npm install的方式直接安装使用。该demo仅作解决方案的示意。**
+
+## npm安装地址
+
+[svg-sprite-icon](https://www.npmjs.com/package/svg-sprite-icon)
+
 
 ## 在线预览
 
@@ -147,8 +154,8 @@ export default {
 
 <style scoped>
 .svg-icon {
-  width: 40px;
-  height: 40px;
+  width: 1em;
+  height: 1em;
   vertical-align: -0.15em;
   fill: currentColor;
   overflow: hidden;
